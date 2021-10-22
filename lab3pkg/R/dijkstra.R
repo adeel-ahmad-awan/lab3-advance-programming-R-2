@@ -1,6 +1,8 @@
-#' dijkstra
+#' Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph.
+#' https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm 
 #' @param graph data.frame
 #' @param init_node numeric
+#' @return The vector should returning the shortest path to every other node from the starting node
 #' @export
 dijkstra <-
 function(graph, init_node) {

@@ -6,6 +6,7 @@ Date: 2021-10-22
 Author: AD ACE
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: this package contains 2 functions.
-  this package contains 2 functions.
+  one is for finding gteatest common divisor (euclidean()). And one to find
+  shortest path from a node to each node dijkstra()
 License: MIT
 RoxygenNote: 7.1.2
